@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaufHomework02.12", "RaufHomework02.12\RaufHomework02.12.csproj", "{8808C7E9-8710-4393-8AD3-B6C9C06AE3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8808C7E9-8710-4393-8AD3-B6C9C06AE3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8808C7E9-8710-4393-8AD3-B6C9C06AE3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8808C7E9-8710-4393-8AD3-B6C9C06AE3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8808C7E9-8710-4393-8AD3-B6C9C06AE3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D35FDB5F-2DD9-4539-A8C7-D929FB0154A7}
+	EndGlobalSection
+EndGlobal
